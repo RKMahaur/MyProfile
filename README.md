@@ -11,7 +11,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 ---
 
 ### 👨‍💻 About Me
-- 🔭 AI Engineer at **Cognizant**
+- 🔭 Multi-Cloud Engineer at **Cognizant**
 - 🤖 Working on **Machine Learning, NLP & Deep Learning**
 - 🚀 Experienced in **end-to-end ML application deployment**
 - 🌍 Open to **global & remote AI opportunities**
@@ -49,7 +49,8 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 ### 📊 GitHub Stats
 <p>
   <img align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=rkmahaur&layout=compact" />
+  src="[https://github-readme-stats.vercel.app/api/top-langs?username=rkmahaur&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=rkmahaur
+)" />
 </p>
 
 <p>
