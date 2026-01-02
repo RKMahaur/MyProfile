@@ -1,22 +1,59 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Mahaur</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
+<h3 align="center">AI Engineer | Machine Learning | NLP | Cloud & DevOps</h3>
 
-<img align="right" alt="coding" width="350"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="350"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkmahaur&label=Profile%20views&color=0e75b6&style=flat" alt="rkmahaur" /> </p>
-
-- 📫 How to reach me **rohitkmahaur@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohit kumar mahaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar mahaur" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rkmahaur&label=Profile%20views&color=0e75b6&style=flat" alt="rkmahaur" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- 🔭 Multi-Cloud Engineer at **Cognizant**
+- 🤖 Working on **Machine Learning, NLP & Deep Learning projects**
+- 🚀 Experience with **end-to-end ML deployment**
+- 🌍 Aspiring for **global & remote AI roles**
+- 📫 Reach me at **rohitkmahaur@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkmahaur&show_icons=true&locale=en&layout=compact" alt="rkmahaur" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkmahaur&show_icons=true&locale=en" alt="rkmahaur" /></p>
+<h3 align="left">🤝 Connect with me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rohit-kumar-mahaur/" target="_blank">
+    <img align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    height="30" width="40" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkmahaur&" alt="rkmahaur" /></p>
+---
+
+<h3 align="left">🛠 Languages & Tools</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p>
+  <img align="left"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=rkmahaur&layout=compact" />
+</p>
+
+<p>
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api?username=rkmahaur&show_icons=true" />
+</p>
+
+<p>
+  <img align="center"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rkmahaur" />
+</p>
